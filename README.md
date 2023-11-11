@@ -30,4 +30,4 @@
 
 ### Connect with me:
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mattre1d)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mattre1d)
