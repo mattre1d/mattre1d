@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome!
 
-👩‍💻 My name is Matt Reid | 🔗 [Website Portfolio]
+👨‍💻 My name is Matt Reid | 🔗 [Website Portfolio]
 
 👁️ I have a huge interest in developing mobile and web applications 💻! 
 
@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Runtime-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![](https://img.shields.io/badge/Code-SwiftUI-ff69b4?style=flat&logo=swift&logoColor=white) 
 ![](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Git-F05032?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
