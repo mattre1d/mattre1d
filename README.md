@@ -2,17 +2,7 @@
 
 👨‍💻 My name is Matt Reid | 🔗 [Website Portfolio]
 
-👁️ I have a huge interest in developing mobile and web applications 💻! 
-
-🌐 Currently employed as an Applications Engineer at Hexagon.
-
-
 ## Skills:
-- Mobile and Web Development
-- Project Engineering
-- Technical Support
-
-## Tools:
 
 ![](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -26,8 +16,6 @@
 ![](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning NodeJS
 
 ### Connect with me:
 
